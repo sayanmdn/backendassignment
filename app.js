@@ -1,5 +1,5 @@
 const numberOfUniverse = 4,
-  numberOfPortals = 6;
+  numberOfPortals = 4;
 const portals = [
   [1, 2, 3],
   [1, 3, 2],
